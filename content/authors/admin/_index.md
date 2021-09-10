@@ -6,7 +6,7 @@ title: Abigail Pajulas
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate (4th year)
+role: PhD Candidate in Microbiology and Immunology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://medicine.iu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abigail Pajulas is a PhD student at Indiana University - School of Medicine.
+bio: Abigail Pajulas is a PhD student
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Microbiology and Immunology
+    institution: Indiana University - School of Medicine
+    year: Fall 2018 - present
+  - course: BSc in Kinesiology-Exercise Science (Honors)
+    institution: California State University, Northridge
+    year: Spring 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My story is one of structured serendipity. My experiences, ambition, and attitude have led me to my current position as a graduate student at IU – School of Medicine. The training I received during my predoctoral studies have led me to pursue an interdisciplinary approach to research. The foundations of my statistical curiosity arose during my time in a psychology lab. It was fascinating to understand how certain observations may be correlated, and how observations seen in a sample may be relevant to a larger population. Moreover, my interdisciplinary approach allows me to improve upon the different aspects of a study by considering possible avenues to answer my question, developing experiments to answer smaller aims, and interpreting and reflecting on data I obtain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Altogether my academic training and research experience have encouraged me to question everything, to explore my curiosity, and at times, restructure my thinking. Equipped with the tools I’ve acquired through my undergraduate and graduate training; I am ready to explore the boundless science in immunology under the mentorship of Dr. Mark Kaplan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
