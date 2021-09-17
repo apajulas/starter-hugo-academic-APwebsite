@@ -67,8 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-My story is one of structured serendipity. My experiences, ambition, and attitude have led me to my current position as a graduate student at IU – School of Medicine. The training I received during my predoctoral studies have led me to pursue an interdisciplinary approach to research. The foundations of my statistical curiosity arose during my time in a psychology lab. It was fascinating to understand how certain observations may be correlated, and how observations seen in a sample may be relevant to a larger population. Moreover, my interdisciplinary approach allows me to improve upon the different aspects of a study by considering possible avenues to answer my question, developing experiments to answer smaller aims, and interpreting and reflecting on data I obtain.
+I am a Microbiology and Immunology PhD Candidate under the guidance of Dr. Mark Kaplan at Indiana University - School of Medicine. My research focuses on studying cellular interactions in allergic diseases such as allergic asthma and eczema. 
 
-Altogether my academic training and research experience have encouraged me to question everything, to explore my curiosity, and at times, restructure my thinking. Equipped with the tools I’ve acquired through my undergraduate and graduate training; I am ready to explore the boundless science in immunology under the mentorship of Dr. Mark Kaplan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
