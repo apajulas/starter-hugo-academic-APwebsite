@@ -18,9 +18,9 @@ bio: Abigail Pajulas is a PhD student
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Allergic diseases (Asthma & Atopic Dermatitis)
+- Lung cancer
+- Immunology
 
 # Education to show in About widget
 education:
@@ -67,7 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Microbiology and Immunology PhD Candidate under the guidance of Dr. Mark Kaplan at Indiana University - School of Medicine. My research focuses on studying cellular interactions in allergic diseases such as allergic asthma and eczema.
+Hi, I'm Abigail! I am an Immunologist-in-training, Diversity advocate, and a sub-par rock climber. As an Immunology PhD candidate, I utilize mouse models and bioinformatic approaches to define the role of Interleukin-9 in allergic asthma, lung cancer, and urinary tract infections. I actively participate in DEI initiatives with the Society for the Advancement of Chicanos/Latinx and Native Americans in Science chapter at IU. In addition to the problems in my scientific research, I continue to challenge myself with rock climbing problems/routes.
 
+Feel welcomed to connect with me via LinkedIn!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
