@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
+title: 'Publications'
 subtitle:
 
 # Date format
@@ -23,31 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.science.org/journal/sciimmunol
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "March 2022"
   description: ""
-  organization: Coursera
+  organization: Science Immunology
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: 'Pulmonary interstitial macrophages are required to mediate the pro-tumorigenic effects of IL-9'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.science.org/journal/sciimmunol
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "March 2022"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  organization: Science Immunology
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: 'IL-9 is required for multi-cytokine producing tissue-resident memory CD4+ T cell-dependent allergic airway recall responses'
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.nature.com/ncomms/
+  date_end: ""
+  date_start: "2022"
   description: ""
-  organization: DataCamp
+  organization: in revision for Nature Communications
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: 'An IL-9-pulmonary macrophage axis defines the allergic lung inflammatory environment'
   url: ""
-
+- certificate_url: https://www.jidonline.org
+    date_end: ""
+    date_start: "2022"
+    description: ""
+    organization: in revisions for Journal of Investigative Dermatology
+    organization_url: https://www.datacamp.com
+    title: 'T cell-mediated wound healing is diminished by allergic skin inflammation'
+    url: ""
 design:
   columns: '2'
 ---

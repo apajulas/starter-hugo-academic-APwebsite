@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
 icon: cv
 icon_pack: ai
-link: uploads/resume.pdf
+link: https://github.com/apajulas/resume.git
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: alpajulas@gmail.com
@@ -71,4 +71,4 @@ Hi, I'm Abigail! I am an Immunologist-in-training, Diversity advocate, and a sub
 
 Feel welcomed to connect with me via LinkedIn!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
