@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 70
 
 title: Skills
 subtitle:
@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: "Experimental models in allergic asthma, lung cancer, atopic dermatitis, and urinary tract infection"
+  icon: microscope
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: "Mouse Handling"
+- description: "DNA/RNA isolation, RT-PCR, ELISA, Western Blot, & immunofluorescence"
+  icon: vials
   icon_pack: fas
-  name: Photography
+  name: Molecular Biology
+- description: FlowJo analysis + GraphPad Prism
+    icon: border-all
+    icon_pack: fas
+    name: Flow cytometry
+- description: R studio and Python
+      icon: computer-classic
+      icon_pack: fab
+      name: Computation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
