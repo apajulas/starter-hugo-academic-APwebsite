@@ -24,11 +24,11 @@ feature:
   icon: vials
   icon_pack: fas
   name: Molecular Biology
-- description: FlowJo analysis + GraphPad Prism
+- description: 'FlowJo analysis + GraphPad Prism'
     icon: border-all
     icon_pack: fas
     name: Flow cytometry
-- description: R studio and Python
+- description: 'R studio and Python'
       icon: computer-classic
       icon_pack: fab
       name: Computation
