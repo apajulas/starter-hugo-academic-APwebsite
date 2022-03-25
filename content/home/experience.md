@@ -36,7 +36,7 @@ experience:
     description: "I participated in a summer research experience as a Graduate Experience for Multicultural Students (GEMS) intern. As an intern for 10-weeks, I participated in academic seminars, professional development workshops, and conducted research in a Dr. Stefan Pukatzki's lab. My summer project focused on investigating the role of toxin-coregulated pilus on Vibrio cholerae and its effects on type VI secretion system by using killing assays with Escherichia coli."
 
   - title: "Undergraduate Research Assistant"
-    company: "California State University, Northirdge: Drs. Luciana Lagana, Taeyou Jung, and Sean Murray"
+    company: "California State University, Northridge: Drs. Luciana Lagana, Taeyou Jung, and Sean Murray"
     company_url: 'https://www.ccny.cuny.edu/biology/faculty-profile'
     location: "Northridge, CA"
     date_start: "2016-05-01"
