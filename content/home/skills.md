@@ -15,14 +15,17 @@ feature:
   icon: "microscope"
   icon_pack: "fas"
   name: "Mouse Handling"
+
 - description: "DNA/RNA isolation, RT-PCR, ELISA, Western Blot, & immunofluorescence"
-  icon: "vials"
+  icon: "vial"
   icon_pack: "fas"
   name: "Molecular Biology"
+
 - description: "FlowJo analysis + GraphPad Prism"
     icon: "border-all"
     icon_pack: "fas"
     name: "Flow cytometry"
+
 - description: "R studio and Python"
       icon: "computer-classic"
       icon_pack: "fab"
