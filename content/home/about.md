@@ -1,16 +1,11 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+#About widget.
 
-# Activate this widget? true/false
-active: true
+widget: about # Documentation: https://wowchemy.com/docs/page-builder/
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 15
+active: true # Activate this widget? true/false
+headless: true # This file represents a page section.
+weight: 15 # Order that this section appears on the page.
 
 title: About me
 

@@ -1,13 +1,9 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 150
+widget: contact # Documentation: https://sourcethemes.com/academic/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 150 # Order that this section appears on the page.
 
 title: Contact
 subtitle:
