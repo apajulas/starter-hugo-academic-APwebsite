@@ -3,7 +3,7 @@
 
 widget: pages # Documentation: https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-active: false
+active: true
 weight: 90 # Order that this section appears on the page.
 
 title: Publications
