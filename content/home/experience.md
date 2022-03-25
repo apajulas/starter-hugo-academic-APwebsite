@@ -14,7 +14,7 @@ subtitle: Research, Internships, and Fellowships
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan-02-06
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
