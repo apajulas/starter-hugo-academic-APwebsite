@@ -18,7 +18,6 @@ date_format: "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-
 experience:
   - title: "Ph.D. Student"
     company: "Indiana University - School of Medicine: Mark Kaplan lab"
@@ -39,7 +38,7 @@ experience:
   - title: "Undergraduate Research Assistant"
     company: "California State University, Northirdge: Drs. Luciana Lagana, Taeyou Jung, and Sean Murray"
     company_url: 'https://www.ccny.cuny.edu/biology/faculty-profile'
-    location: "Northirdge, CA"
+    location: "Northridge, CA"
     date_start: "2016-05-01"
     date_end: "2018-05-01"
     description:  >-
