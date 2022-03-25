@@ -42,11 +42,13 @@ experience:
     date_start: "2016-05-01"
     date_end: "2018-05-01"
     description:  >-
-        "As a Maximizing Access to Research Careers (MARC U*STAR) T34 scholar, I participated in undergraduate research in several labs:
+        As a Maximizing Access to Research Careers (MARC U*STAR) T34 scholar, I participated in undergraduate research in several labs:
 
         * Jung lab research: Analyzed Brain Activity using fNIR During Dual Task Walking in Individuals with Parkinson’s Disease
+
         * Lagana lab research: Assessed the impact of anti-bias films on reducing stereotypes and increasing empathy towards discriminated minorities
-        * Murray lab research: Investigated the role of PhaA, PhaB, and PhaC in promoting (p)ppGpp accumulation in Caulobacter crescentus"|2-
+
+        * Murray lab research: Investigated the role of PhaA, PhaB, and PhaC in promoting (p)ppGpp accumulation in Caulobacter crescentus
 
 
 design:
