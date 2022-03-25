@@ -26,7 +26,7 @@ experience:
     company: 'Indiana University - School of Medicine: Mark Kaplan lab'
     company_url: 'https://medicine.iu.edu/faculty-labs/kaplan'
     location: 'Indianapolis, IN'
-    date_start: "2019-05-01"
+    date_start: '2019-05-01'
     date_end: ''
     description: 'As a T32 fellow, I have completed several projects within the Kaplan which include but are not limited to studying the role of IL-9 in allergic asthma, lung cancer, and urinary tract infections. I've also contributed to several projects and received recognition in the form of publications. In addition to my research, I serve as a board member in IUSM's Society for the Advancement of Chicanos/Latinx and Native Americans in Science chapter, in addition to a Toastmasters International club.'
 
