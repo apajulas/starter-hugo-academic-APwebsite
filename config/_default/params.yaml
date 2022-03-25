@@ -4,11 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+appearance:
+  theme_day: classic
+  theme_night: minimal
+  font: minimal
+  font_size: S
 
 # SEO
 
@@ -48,9 +48,10 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan-02-06'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
