@@ -37,7 +37,7 @@ experience:
 
   - title: "Undergraduate Research Assistant"
     company: "California State University, Northridge: Drs. Luciana Lagana, Taeyou Jung, and Sean Murray"
-    company_url: 'https://www.ccny.cuny.edu/biology/faculty-profile'
+    company_url: 'http://www.csun.edu/~csunmore/page2.html'
     location: "Northridge, CA"
     date_start: "2016-05-01"
     date_end: "2018-05-01"
