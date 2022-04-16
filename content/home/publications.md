@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 
-widget: pages # Documentation: https://wowchemy.com/docs/page-builder/
+widget: featured # Documentation: https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 active: true
 weight: 90 # Order that this section appears on the page.
