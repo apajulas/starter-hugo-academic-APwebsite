@@ -8,7 +8,7 @@ authors:
 - YONGYAO FU
 - JOCELYN WANG
 - BAOHUA ZHOU
-- ABIGAIL PAJULA
+- ABIGAIL PAJULAS
 - SHONGYU GAOBASKAR RAMDAS
 - BYUNGHEE KOH
 - BENJAMIN J. ULRICH
@@ -48,7 +48,7 @@ publication_types: ["2"]
 abstract: "Despite IL-9 functioning as a pleiotropic cytokine in mucosal environments, the IL-9–responsive cell repertoire is still not well defined. Here, we found that IL-9 mediates proallergic activities in the lungs by targeting lung macrophages. IL-9 inhibits alveolar macrophage expansion and promotes recruitment of monocytes that develop into CD11c+ and CD11c− interstitial macrophage populations. Interstitial macrophages were required for IL-9–dependent allergic responses. Mechanistically, IL-9 affected the function of lung macrophages by inducing Arg1 activity. Compared with Arg1-deficient lung macrophages, Arg1-expressing macrophages expressed greater amounts of CCL5. Adoptive transfer of Arg1+ lung macrophages but not Arg1− lung macrophages promoted allergic inflammation that Il9r−/− mice were protected against. In parallel, the elevated expression of IL-9, IL-9R, Arg1, and CCL5 was correlated with disease in patients with asthma. Thus, our study uncovers an IL-9/macrophage/Arg1 axis as a potential therapeutic target for allergic airway inflammation."
 
 # Summary. An optional shortened abstract.
-summary: "Interleukin-9 (IL-9) can promote type 2 lung inflammation during allergic responses to inhaled allergens, but the direct cellular targets of IL-9 are not well characterized. Fu et al. demonstrate that pulmonary macrophages are a major population of immune cells responding to IL-9 produced in mouse models of allergic airway disease. Mice deficient in the IL-9 receptor had impaired expansion of monocyte-derived interstitial macrophages that promoted airway inflammation dependent on arginase expression. IL-9 signaling also promoted macrophage production of the eosinophil-attracting chemokine CCL5, which was elevated in the serum of patients with asthma and correlated with IL-9 levels. These results identify lung macrophages as key cellular targets of IL-9 during allergic disease that subsequently amplify type 2 inflammatory responses."
+summary: "Fu et al. demonstrate that pulmonary macrophages are a major population of immune cells responding to IL-9 produced in mouse models of allergic airway disease. Mice deficient in the IL-9 receptor had impaired expansion of monocyte-derived interstitial macrophages that promoted airway inflammation dependent on arginase expression. IL-9 signaling also promoted macrophage production of the eosinophil-attracting chemokine CCL5, which was elevated in the serum of patients with asthma and correlated with IL-9 levels."
 
 tags: []
 

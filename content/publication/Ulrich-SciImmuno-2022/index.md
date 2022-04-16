@@ -13,7 +13,7 @@ authors:
 - BYUNGHEE KOH
 - YONGYAO FU
 - HONGYU GAO
-- TRISTAN A. HAYES 
+- TRISTAN A. HAYES
 - HONG-MING ZHOU
 - NICK P. GOPLEN
 - ANDREW S. NELSON
@@ -49,7 +49,7 @@ publication_types: ["2"]
 abstract: "Asthma is a chronic inflammatory lung disease with intermittent flares predominately mediated through memory T cells. Yet, the identity of long-term memory cells that mediate allergic recall responses is not well defined. In this report, using a mouse model of chronic allergen exposure followed by an allergen-free rest period, we characterized a subpopulation of CD4+ T cells that secreted IL-9 as an obligate effector cytokine. IL-9–secreting cells had a resident memory T cell phenotype, and blocking IL-9 during a recall challenge or deleting IL-9 from T cells significantly diminished airway inflammation and airway hyperreactivity. T cells secreted IL-9 in an allergen recall–specific manner, and secretion was amplified by IL-33. Using scRNA-seq and scATAC-seq, we defined the cellular identity of a distinct population of T cells with a proallergic cytokine pattern. Thus, in a recall model of allergic airway inflammation, IL-9 secretion from a multicytokine-producing CD4+ T cell population was required for an allergen recall response."
 
 # Summary. An optional shortened abstract.
-summary: "IL-9 is involved in asthma, yet what cells it comes from and its role in seasonally induced asthma (recall immune responses) is unclear. Here, Ulrich et al. used an allergen rechallenge mouse model to study the impact of IL-9 producing immune cells on lung inflammation and recall responses. They found that IL-9 primarily came from multifunctional CD4+ T cell resident memory (Trm) populations present in the lungs of mice. These cells secreted IL-9 in an antigen-specific manner and largely depended on IL-33 for IL-9 up-regulation. IL-9+ CD4+ Trm also had a unique transcriptomic and epigenetic profile compared with other T cell populations in the lung. Together, these data suggest that targeting IL-9+ Trm in the lungs during seasonal allergies might abrogate lung inflammation."
+summary: "Ulrich et al. used an allergen rechallenge mouse model to study the impact of IL-9 producing immune cells on lung inflammation and recall responses. They found that IL-9 primarily came from multifunctional CD4+ T cell resident memory (Trm) populations present in the lungs of mice. These cells secreted IL-9 in an antigen-specific manner and largely depended on IL-33 for IL-9 up-regulation. IL-9+ CD4+ Trm also had a unique transcriptomic and epigenetic profile compared with other T cell populations in the lung."
 
 tags: []
 
