@@ -15,7 +15,7 @@ feature:
 - description: "Experimental models in allergic asthma, lung cancer, atopic dermatitis, and urinary tract infection"
   icon: "microscope"
   icon_pack: "fas"
-  name: "Mouse Handling"
+  name: "Mouse Models"
 
 - description: "DNA/RNA isolation, RT-PCR, ELISA, Western Blot, & immunofluorescence"
   icon: "vial"
@@ -28,9 +28,15 @@ feature:
   name: "Flow cytometry"
 
 - description: "R studio and Python"
-  icon: "computer-classic"
-  icon_pack: "fab"
+  icon: "laptop-code"
+  icon_pack: "fas"
   name: "Computation"
+
+- description: "Adobe Illustrator, BioRender, & Microsoft Powerpoint"
+  icon: "chalkboard"
+  icon_pack: "fas"
+  name: "Figure Design & Editing"
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
