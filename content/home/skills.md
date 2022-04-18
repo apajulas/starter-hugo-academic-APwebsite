@@ -37,6 +37,11 @@ feature:
   icon_pack: "fas"
   name: "Figure Design & Editing"
 
+- description: "Interpersonal communication, Presentation mastery, & Experienced Panel Moderator"
+  icon: "comments"
+  icon_pack: "fas"
+  name: "Communication"
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

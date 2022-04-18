@@ -8,10 +8,10 @@ authors:
 - JOCELYN WANG
 - ABIGAIL PAJULAS
 - YONGYAO FU
-- DJAMILATOU Adom
-- WENWU Zhang
-- ANDREW Nelson
-- DAN Spandau
+- DJAMILATOU ADOM
+- WENWU ZHANG
+- ANDREW NELSON
+- DAN SPANDOU
 - MARK KAPLAN
 
 # Author notes (optional)
